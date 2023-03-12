@@ -1,0 +1,37 @@
+_repo: The-duplicate-death_70233
+_version: 0.0.1
+contributor:
+  illustrator:
+    agent_name: Heyer, Hermann
+    birthdate: 1876
+    deathdate: 1950
+    gutenberg_agent_id: '31805'
+    url: http://www.gutenberg.org/2009/agents/31805
+creator:
+  author:
+    agent_name: Fox-Davies, Arthur Charles
+    alias: Fox-Davies, A. C. (Arthur Charles)
+    birthdate: 1871
+    deathdate: 1928
+    gutenberg_agent_id: '25733'
+    url: http://www.gutenberg.org/2009/agents/25733
+description: ''
+gutenberg_issued: '2023-03-08'
+identifiers:
+  gutenberg: '70233'
+language: en
+pgterms:marc904: https://archive.org/details/duplicatedeath00foxdiala
+pgterms:marc905: 20210924094450foxdavies
+pgterms:marc906: '1910'
+pgterms:marc907: US
+production_note: deaurider, David E. Brown, and the Online Distributed Proofreading
+  Team at https://www.pgdp.net (This file was produced from images generously made
+  available by The Internet Archive)
+publication_note: '  $aUnited States :$bThe Macaulay Company, $c1910.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: The duplicate death
+url: http://www.gutenberg.org/ebooks/70233
