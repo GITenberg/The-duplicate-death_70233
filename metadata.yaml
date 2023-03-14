@@ -7,6 +7,9 @@ contributor:
     deathdate: 1950
     gutenberg_agent_id: '31805'
     url: http://www.gutenberg.org/2009/agents/31805
+covers:
+- cover_type: archival
+  image_path: 70233-h/images/cover.jpg
 creator:
   author:
     agent_name: Fox-Davies, Arthur Charles
@@ -16,6 +19,8 @@ creator:
     gutenberg_agent_id: '25733'
     url: http://www.gutenberg.org/2009/agents/25733
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/70233#The-duplicate-death
 gutenberg_issued: '2023-03-08'
 identifiers:
   gutenberg: '70233'
